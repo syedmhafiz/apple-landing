@@ -1,2 +1,2 @@
 # apple-landing
-Landing page of the official Apple website
+Landing page of the official Apple website (in progress)
